@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Wheat Flour",
+    "price": 42,
+    "image": "https://drive.google.com/uc?id=10KQUDm3IP6G61ffrZj0pRyyusOn1m44F"
+  },
+  {
+    "name": "Rice Flour",
+    "price": 55,
+    "image": "https://drive.google.com/uc?id=10KQUDm3IP6G61ffrZj0pRyyusOn1m44F"
+  }
+]
